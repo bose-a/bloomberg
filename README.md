@@ -1,4 +1,4 @@
 # bloomberg
 Data visualization project.
 
-![](animation.gif)
+![](animation.gif) =425x325
