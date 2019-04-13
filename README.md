@@ -1,4 +1,4 @@
 # bloomberg
 Data visualization project.
 
-![](animation.gif)
+![](animationHD.gif)
